@@ -12,7 +12,7 @@ float area(float radiusAsFloat, float heightAsFloat) {
     // variables
     float volume;
 
-    // aprocess and output
+    // process and output
     volume = pow(radiusAsFloat, 2) * heightAsFloat * M_PI;
     return volume;
 }
